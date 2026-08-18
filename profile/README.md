@@ -16,15 +16,15 @@ Built for teams that need to prove their audit trail is real, not just present. 
 
 ## SDKs
 
-Official client libraries for sending events to AuditRails, built and tested, publishing soon:
+Official client libraries for sending events to AuditRails, built and tested. The Go SDK installs directly off its tagged repo; the other 4 are on their public repos now with registry publishing (npm, PyPI, Packagist, Maven Central) coming soon.
 
-| Language | Package |
-|----------|---------|
-| Node.js | `@auditrails/node` |
-| Python | `auditrails` |
-| PHP | `auditrails/auditrails-php` |
-| Go | `github.com/auditrails/auditrails-go` |
-| Java | `io.auditrails:auditrails-java` |
+| Language | Package | Repo |
+|----------|---------|------|
+| Node.js | `@auditrails/node` | [auditrails/auditrails-node](https://github.com/auditrails/auditrails-node) |
+| Python | `auditrails` | [auditrails/auditrails-python](https://github.com/auditrails/auditrails-python) |
+| PHP | `auditrails/auditrails-php` | [auditrails/auditrails-php](https://github.com/auditrails/auditrails-php) |
+| Go | `github.com/auditrails/auditrails-go` | [auditrails/auditrails-go](https://github.com/auditrails/auditrails-go) |
+| Java | `io.auditrails:auditrails-java` | [auditrails/auditrails-java](https://github.com/auditrails/auditrails-java) |
 
 ## Links
 
